@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Device Management</string>
+    <string name="search_bar">Search by model name or owner</string>
+    <string name="actionbar_available">Available Devices</string>
+    <string name="actionbar_borrow">Borrow Devices</string>
+    <string name="actionbar_lost">Lost Devices</string>
+    <string name="actionbar_all">All Devices</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="owner_prompt">Choose a owner</string>
+    <string name="action_fastscroll">Fast scroll</string>
+    <string name="action_addpadding">Add padding</string>
+    <string name="action_showShadow">Show shadow</string>
+    <string name="action_showHeaderAndFooter">Show Header &amp; Footer</string>
+    <string name="action_updateDataset">Update dataset</string>
+    <string name="action_websearch">Search</string>
+    <string name="listview_history">ListViewHistory</string>
+    <string name="available">Available</string>
+    <string name="borrow">Borrow</string>
+    <string name="lost">Lost</string>
+    <string name="all">All</string>
+    <string name="scan">Scan</string>
+    
+     <string-array name="team_arrays">
+        <item>Messaging</item>
+        <item>Homescreen and Setting</item>
+        <item>GMS/3rd Party</item>
+        <item>Call</item>
+        <item>Contact</item>
+        <item>Splanner</item>
+        <item>Organizer</item>
+        <item>Smart Manager</item>
+        <item>Media Apps</item>        
+    </string-array>
+
+    <string-array name="message_arrays">
+        <item>Duong Anh Son (duong.son)</item>
+        <item>Pham Van Hai (hai.pv)</item>
+        <item>Nguyen Kieu Hung (kieu.hung)</item>
+        <item>Tran Van Tung (tran.vtung)</item>
+        <item>Tran Thien Phuc (phuc.tt)</item>
+        <item>Tran Van Tai (tai.tv)</item>
+        <item>Pham Ngoc Thinh (thinh.pv)</item>
+        <item>Nguyen Thi Thanh Dung (dung.ntt)</item>
+        <item>Nguyen Mau Thuc (thuc.nm)</item>
+        <item>Ngo Thanh Vinh (vinh.nt3)</item>
+    </string-array>
+    
+    <string-array name="home_setting_arrays">
+        <item>Do Duc Binh (duc.binh)</item>
+        <item>Nguyen Duc Bang (duc.bang)</item>
+        <item>Le Van Anh (levan.anh)</item>
+        <item>Phan Van Thang (phan.vthang)</item>
+        <item>Nguyen Huy Hoang (ng.huy.hoang)</item>
+        <item>Le Khanh Dat (dat.lk)</item>
+        <item>Nguyen Khac Huy (huy.nk)</item>
+        <item>Trần Huy Cường (Cuong.th1)</item>
+        <item>Nguyễn Mạnh Cường (cuong.nm4)</item>
+        <item>Đỗ Thị Hương (huong.dt1)</item>
+        <item>Nguyễn Văn Thông (thong.nv)</item>
+        <item>Trần Thượng Côn (con.tt)</item>
+        <item>Phạm Đình Chiến (chien.pd)</item>
+        <item>Đặng Hoàng Trung (trung.dh)</item>
+        <item>Ngô Quang Hùng (hung.nq1)</item>
+        <item>Phan Cường Việt (viet.nc)</item>
+        <item>Trương Thị Oanh (oanh.tt)</item>
+        <item>Phạm Mạnh Toàn (toan.pm1)</item>
+        <item>Luong Van Luc (luc.lv)</item>
+        <item>Mẫn Văn Vinh (vinh.mv)</item>
+         <item>Nguyen Tuan Anh Tra (tra.nta)</item>
+        <item>Pham Trung Duc (duc.pt)</item>
+        <item>Duong Van Tuan (tuan.dv)</item>        
+    </string-array>
+    
+    <string-array name="gms_3rd_arrays">
+        <item>Nguyen Minh Duc (minhduc.ng)</item>
+        <item>Nguyen Thanh Luan (luan.ngt)</item>
+        <item>Hoang Thi Nguyen (nguyen.hoang)</item>
+        <item>Dang Thi Hong Dieu (hong.dieu)</item>
+        <item>Ho Thi Binh (ho.binh)</item>
+        <item>Nguyen Thi Hanh (nghanh.ng)</item>
+        <item>Kieu Thi Viet Hoa (kieu.vhoa)</item>
+        <item>Le Thi Thuy Linh  (le.tt.linh)</item>
+        <item>Nguyen Van Thang (thang.nvan)</item>
+        <item>Nguyen Huu Tu (tu.nh)</item>
+        <item>Le Quang Kien (kien.lq)</item>       
+    </string-array>
+    
+    <string-array name="call_arrays">
+        <item>Luong Thi Thuy Duong (thuyduong.lt)</item>
+        <item>To Tien Hien (tien.hien)</item>
+        <item>Nguyen Thi Tham (tham.ngt)</item>
+        <item>To Tien Hien (tien.hien)</item>
+        <item>Nguyen Thi Tham (tham.ngt)</item>
+        <item>Nguyen Van Tam (tam.nvt)</item>
+        <item>Luu Quang Tinh (luu.tinh)</item>
+        <item>Nguyen Thi Hien (t.hien.nt)</item>
+        <item>Tran Dinh Anh (anh.td)</item>
+        <item>Nguyen Dinh Son (ndinh.son)</item>       
+    </string-array>
+    
+     <string-array name="contact_arrays">
+        <item>Pham Thanh Son (son.pt)</item>
+        <item>Nguyen Hai Anh (hai.anh)</item>
+        <item>Le Van Bang (le.vbang)</item>
+        <item>Nguyen The Thanh (thanh.nt2)</item>
+        <item>Cao Duy Khánh (khanh.cd)</item>           
+    </string-array>
+    
+     <string-array name="splanner_arrays">
+        <item>Nguyen Ngoc Duy (ngoc.duy)</item>
+        <item>Do Thi Yen (thiyen.do)</item>
+        <item>Nguyen Quang Duong (quangduong.n)</item>
+        <item>Loc Bien Cuong (loc.cuong)</item>
+        <item>Nguyễn Văn Hải (hai.nv2)</item>
+        <item>Nguyen Van Vinh (vinh.nv3)</item>
+        <item>Bùi Khánh Duy Anh (anh.bkd)</item>
+        <item>Nguyen Hung Phong (phong.nh)</item>
+        <item>Pham Thi Anh Quyen (quyen.pta)</item>
+        <item>Le Dinh Dong (dong.ld)</item>       
+    </string-array>
+    
+     <string-array name="organizer_arrays">
+        <item>Nguyen Ba Ly (ly.ba)</item>
+        <item>Nguyen Thuong Khang (khang.thuong)</item>
+        <item>Nguyen Van Song (song.van)</item>
+        <item>Pham Tung Anh (tunganh.ph)</item>
+        <item>Pham Thi Hong (thihong.ph)</item>
+        <item>Le Minh Thao (leminh.thao)</item>       
+    </string-array>
+     
+     <string-array name="smart_manager_arrays">
+        <item>Luu Duc Quynh (duc.quynh)</item>
+        <item>Nguyen Van Dang (vandang.ng)</item>
+        <item>Vu Hong Kong (vu.kong)</item>
+        <item>Ta Van Nho (ta.nho)</item>
+        <item>Nguyen Dang Hung (dhung.ng)</item>
+        <item>Tran Duc Tan (tan.duc)</item>
+        <item>Luu Dinh Long (luu.long)</item>
+        <item>Tran Van Tam (tam.vantran)</item>
+        <item>Thái Thị Hoài (hoai.tt)</item>
+        <item>Bạch Văn Hải (hai.bv)</item>  
+        <item>Nguyễn Xuân Cảnh (canh.nx)</item>            
+    </string-array>
+    
+      <string-array name="media_app_arrays">
+        <item>Le Viet Thang (le.thang)</item>
+        <item>Dang Van Sinh (dang.sinh)</item>
+        <item>Hoang Viet Quan (viet.quan)</item>
+        <item>Tran Minh Tuan (minh_tuan.tr)</item>
+        <item>Nguyen Duy Huong (duy.huong)</item>
+        <item>Vũ Quang Tạo (tao.vq)</item>
+        <item>Nguyễn Quốc Duy (duy.nq)</item>
+        <item>Phạm Hoàng Đạt (dat.ph)</item>
+        <item>Phạm Quang Duy (duy.pq)</item>
+        <item>Nguyễn Thị Mai (mai.nt1)</item>
+        <item>Đinh Thị Hòa (hoa.dt2)</item>
+        <item>Dang The Anh (anh.dt1)</item>
+        <item>Trần Văn Thắng (thang.tv1)</item>
+        <item>Le Van Dung (dung.lv)</item>
+        <item>Hồ Sỹ Thắng (thang.hs)</item>      
+    </string-array>
+
+</resources>
